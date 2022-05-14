@@ -1,4 +1,4 @@
-# devTrackR_API
+# DevTrackR_API
 ## Aplicação de cadastro, atualização e acompanhamento de pacotes.
 
 Criação de uma API REST com ASP.NET CORE. completa com diversos endpoints, o  projeto é uma  Aplicação de cadastro, atualização e acompanhamento de pacotes .
